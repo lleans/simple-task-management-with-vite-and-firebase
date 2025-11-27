@@ -106,6 +106,7 @@ This application uses Firebase. You need to provide your own Firebase configurat
 ### Demo Credentials
 
 **Note:** These credentials are for the **deployed app only**. For local development, you must create your own user through app or firebase.
+https://simple-task-management-with-vite-and-firebase.pages.dev/
 
 - **Email:** `coba@mail.com`
 - **Password:** `12345678`
